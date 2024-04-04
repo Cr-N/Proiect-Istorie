@@ -41,6 +41,12 @@ body{
   height: 50vh;
   overflow: hidden;
 }
+#carouselExampleIndicators2 .carousel-item img {
+  object-fit: contain;
+  object-position: center;
+  height: 50vh;
+  overflow: hidden;
+}
 
 
 .carousel-control-prev-icon {
